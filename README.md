@@ -4,3 +4,4 @@
 2023-07-12 09:53:50
 
 2. The number of lines of code contained in guessinggame.sh is:
+24
